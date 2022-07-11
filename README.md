@@ -1,2 +1,2 @@
 # LowOS
-#first  SO  enfocacted in  pc low recurses
+#Este es  script permite enviar mensajes a whatsapp utilizando   la libreria webkit
